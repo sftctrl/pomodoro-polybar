@@ -11,9 +11,9 @@ Um script simples e configurável para o método Pomodoro integrado à Polybar, 
 ## Como usar
 1. Clone o repositório:
 
-```bash
+
 git clone git@github.com:sftctrl/pomodoro-polybar.git
-cd pomodoro-polybar```
+cd pomodoro-polybar
 
 2. Dê permissão de execução para o script:
 
