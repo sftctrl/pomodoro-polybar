@@ -1,0 +1,17 @@
+# Arquivos temporários de editores
+*~
+*.swp
+*.bak
+
+# Diretórios temporários
+tmp/
+.cache/
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+
+# Arquivos de configuração local (se existir)
+.env
